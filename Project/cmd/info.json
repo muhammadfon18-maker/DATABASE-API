@@ -1,0 +1,40 @@
+[
+ 		{
+ 				"id": "fbfd5bff-0d93-43fa-a25f-942f82709d1d",
+ 				"first_name": "Xafiza",
+ 				"last_name": "Qobilov",
+ 				"phone": "+99 309034",
+ 				"created_at": "2026-09-17T23:55:09.204574095+05:00",
+ 				"updated_at": "2026-09-17T23:55:09.204574095+05:00",
+ 				"car": [
+ 						{
+ 								"id_car": "1e996e71-2366-487c-8807-b8c9f94d8f44",
+ 								"model": "Must",
+ 								"car_type": "BMV",
+ 								"user_id": "fbfd5bff-0d93-43fa-a25f-942f82709d1d"
+ 						}
+ 				]
+ 		},
+ 		{
+ 				"id": "125d38e7-c91a-4c30-8bec-1542e5f07bac",
+ 				"first_name": "Muhammad",
+ 				"last_name": "Qobilov",
+ 				"phone": "99 983508495",
+ 				"created_at": "2026-09-18T16:44:45.803276503+05:00",
+ 				"updated_at": "2026-09-18T16:44:45.803276503+05:00",
+ 				"car": [
+ 						{
+ 								"id_car": "d2880f62-67b3-4843-b2d7-c559cf6897c7",
+ 								"model": "Limuzin",
+ 								"car_type": "Stretching",
+ 								"user_id": "125d38e7-c91a-4c30-8bec-1542e5f07bac"
+ 						},
+ 						{
+ 								"id_car": "27de172a-93fb-4f2d-918e-9cc6418c08b3",
+ 								"model": "BMW X5",
+ 								"car_type": "SUV",
+ 								"user_id": "125d38e7-c91a-4c30-8bec-1542e5f07bac"
+ 						}
+ 				]
+ 		}
+ ]
